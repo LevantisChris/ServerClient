@@ -1,5 +1,5 @@
 # ServerClient
-Simple program in Java for handling files between a Server and a client. This project does not contain threads, so one client at a time.
+Simple program in Java for handling files between a Server and a client using Java sockets. This project does not contain threads, so one client at a time.
 
 <h1>COMMUNICATION PROTOCOL DIAGRAM</h1>
 
